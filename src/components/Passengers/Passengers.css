@@ -1,0 +1,23 @@
+.passengers {
+  background-color: #1173b7;
+  color: white;
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.passengers__title {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.passengers__title {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.passengers__counters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
